@@ -1,0 +1,27 @@
+{
+    "cordova-plugin-bit6": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bit6/bit6-cordova",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\burhan.web\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-device"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "phonegap-plugin-push": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\burhan.web\\Desktop\\facefone\\code\\plugins\\phonegap-plugin-push"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
